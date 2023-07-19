@@ -1,4 +1,4 @@
-<h1 align="center">Hi �, I'm Fullstack developer with 14+ years of experience in web development</h1>
+<h1 align="center">Hi, I'm Fullstack developer with 14+ years of experience in web development</h1>
 <h3 align="center">A passionate Full stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=softdev1029&label=Profile%20views&color=0e75b6&style=flat" alt="softdev1029" /> </p>
@@ -6,8 +6,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=softdev1029" alt="softdev1029" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- � How to reach me **softdev102985@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
